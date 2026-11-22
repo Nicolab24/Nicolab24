@@ -26,7 +26,7 @@ I'm passionate about technologies that enable **continuous and non-invasive moni
 - Analysis of physiological signals for health monitoring and rehabilitation
 
 ## 📌 Projects
-
+### 🚴 [RiderApp](https://github.com/StellaRinaldii/RiderApp)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
 
